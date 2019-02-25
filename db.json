@@ -1,12 +1,7 @@
 {
-    "styles": [
+    "styles": 
         {
-            "key": "font-Family",
-            "value": "Segoe UI"
-        },
-        {
-            "key": "font-Size",
-            "value": "38"
-        }
-    ]
+            "font": "Segoe UI",
+            "size": "22"
+        }    
 }
