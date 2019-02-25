@@ -1,14 +1,7 @@
 {
-    "styles": 
-        {
-        "fonts": {
-            "font": "Segoe UI",
-            "lrgSize": "38",
-            "medSize": "22"
-        },
-        "colors": {
-            "scrBg": "#f1f1f1"
-        }
-        }
-    
+    "styles": {
+        "font": {},
+        "color": {},
+        "alt": {}
+    }    
 }
