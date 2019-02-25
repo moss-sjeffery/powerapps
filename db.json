@@ -1,14 +1,10 @@
 {
     "styles": {
-        "font": {
-            "type": "Segoe UI",
-            "lrgSize": "42",
-            "medSize": "30",
-            "smSize": "13"
-        },
-        "color": {
-            "scrBg": "#f1f1f1",
-            "bgCol": "#cccccc"
-        }
+        "font-family": "Segoe UI",
+        "font-h1-size": "42",
+        "font-h2-size": "36",
+        "font-h3-size": "22",
+        "font-p-size": "13",
+        "font-h1-weight": "lighter"
     }
 }
