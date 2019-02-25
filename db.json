@@ -1,5 +1,5 @@
 {
-    "styles": [
+    "styles": 
         {
         "fonts": {
             "font": "Segoe UI",
@@ -10,5 +10,5 @@
             "scrBg": "#f1f1f1"
         }
         }
-    ]
+    
 }
