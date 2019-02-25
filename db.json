@@ -1,8 +1,11 @@
 {
-    "fonts": 
-    {
-        "family": "'Segoe UI'",
-        "H1Size": "36",
-        "H2Size": "24"
+    "styles":{
+        "fonts":{
+            "family":"Segoe UI",
+            "headingSize": "22"
+        },
+        "colors":{
+            "screenBg":"#f1f1f1"
+        }
     }
 }
