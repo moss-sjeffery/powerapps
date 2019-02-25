@@ -1,6 +1,14 @@
 {
-    "font-family":"Segoe UI",
-    "largeSize": "46",
-    "mediumSize": "32",
-    "smallSize": "13"
+    "styles": [
+        {
+        "fonts": {
+            "font": "Segoe UI",
+            "lrgSize": "38",
+            "medSize": "22"
+        },
+        "colors": {
+            "scrBg": "#f1f1f1"
+        }
+        }
+    ]
 }
