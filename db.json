@@ -1,8 +1,14 @@
 {
     "styles": {
-        "fontFamily": "Segoe UI",
-        "smFont": "13",
-        "medFont": "19",
-        "lrgFont": 38
+        "font": {
+            "type": "Segoe UI",
+            "lrgSize": "42",
+            "medSize": "30",
+            "smSize": 13
+        },
+        "color": {
+            "scrBg": "#f1f1f1",
+            "bgCol": "#cccccc"
+        }
     }
 }
