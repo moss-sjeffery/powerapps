@@ -1,10 +1,10 @@
 {
     "styles": {
         "font-family": "Segoe UI",
-        "font-h1-size": "42",
-        "font-h2-size": "36",
-        "font-h3-size": "22",
-        "font-p-size": "13",
+        "font-h1-size": 42,
+        "font-h2-size": 36,
+        "font-h3-size": 22,
+        "font-p-size": 13,
         "font-h1-weight": "lighter"
     }
 }
