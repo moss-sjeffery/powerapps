@@ -1,15 +1,8 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      },
-      {
-        "id": 2,
-        "title": "world"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+    "styles": {
+        "fontFamily": "Segoe UI",
+        "smFont": "13",
+        "medFont": "19",
+        "lrgFont": 38
     }
-  }
+}
