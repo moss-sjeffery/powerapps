@@ -1,7 +1,11 @@
 {
-    "styles": {
-        "font": {},
-        "color": {},
-        "alt": {}
-    }    
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
