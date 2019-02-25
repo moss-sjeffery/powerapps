@@ -1,11 +1,12 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "styles": [
+        {
+            "key": "font-Family",
+            "value": "Segoe UI"
+        },
+        {
+            "key": "font-Size",
+            "value": "38"
+        }
+    ]
+}
